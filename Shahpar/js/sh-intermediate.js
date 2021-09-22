@@ -1,5 +1,7 @@
+document.write("<h1>Intermediate</h1> <br> <br>");
+
 // Exercise 1
-document.write("Exercise 1: Sorting an array <br> <br>");
+document.write("<h3>Exercise 1: Sorting an array</h3> <br> <br>");
 
 var carType = "Tesla, Audi, Renault, Volvo, Mazda, Fiat, Ferrari";
 
