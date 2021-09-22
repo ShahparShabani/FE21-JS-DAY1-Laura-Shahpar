@@ -5,7 +5,7 @@ document.write("<h3>Exercise 1: Sorting an array</h3> <br> <br>");
 
 var carType = "Tesla, Audi, Renault, Volvo, Mazda, Fiat, Ferrari";
 
-carTypeArray = carType.split(",");
+let carTypeArray = carType.split(",");
 document.write(carTypeArray + "<br><br>");
 
 document.write("Sorted Array is: <br>" + carTypeArray.sort() + "<hr><br>");
