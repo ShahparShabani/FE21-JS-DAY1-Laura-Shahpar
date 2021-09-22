@@ -15,7 +15,7 @@ var e = 42;
 
 var sum = a + b + Number(c) + Number(36) + e;
 
-console.log("Sum is: " + sum);
+// console.log("Sum is: " + sum);
 document.write("Sum is: " + sum + "<br><br> <hr>");
 
 // Exercise 1 - Multiply
@@ -29,9 +29,9 @@ var h = 8;
 
 var i = "1";
 
-var multiply = Number(f) * 15 * 8 * Number(i);
+var multiply = Number(f) * g * h * Number(i);
 
-console.log("Multiply is: " + multiply);
+// console.log("Multiply is: " + multiply);
 document.write("Multiply is: " + multiply + "<br> <br><hr><br>");
 
 // Divide
