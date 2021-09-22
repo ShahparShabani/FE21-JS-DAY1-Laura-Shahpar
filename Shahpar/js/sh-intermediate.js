@@ -56,27 +56,3 @@ let fruitA = fruitS.split('/');
 for(let i=0; i<fruitA.length-1 ; i++) {
     document.write(fruitA[i] + "<br>");
 }
-
-// Create a variable containing the following string:
-
-// "mango/cherries/kiwi/grapes/pear/peach/orange/lemon"
-
-
-
-// Create a program that will output each fruit on a separate line in the web browser:
-
-// mango 
-
-// cherries 
-
-// kiwi 
-
-// grapes
-
-// pear 
-
-// peach 
-
-// orange 
-
-// lemon
