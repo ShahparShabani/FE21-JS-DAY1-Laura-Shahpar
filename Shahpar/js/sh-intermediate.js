@@ -46,6 +46,7 @@ document.write(animalArr + "<br><br><hr>");
 document.write("Exercise 3: <br> <br>");
 
 let fruitS = "mango/cherries/kiwi/grapes/pear/peach/orange/lemon";
+document.write("Original string: <br>" + fruitS + "<br><br>");
 
 let fruitA = fruitS.split("/");
 
