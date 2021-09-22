@@ -50,14 +50,7 @@ let fruitS = "mango/cherries/kiwi/grapes/pear/peach/orange/lemon";
 let fruitA = fruitS.split("/");
 
 // Without for loop
-document.write(fruitA[0] + "<br>");
-document.write(fruitA[1] + "<br>");
-document.write(fruitA[2] + "<br>");
-document.write(fruitA[3] + "<br>");
-document.write(fruitA[4] + "<br>");
-document.write(fruitA[5] + "<br>");
-document.write(fruitA[6] + "<br>");
-document.write(fruitA[7] + "<br>");
+document.write(fruitA.join("<br>"));
 
 // With for loop
 // for (let i = 0; i < fruitA.length ; i++) {
